@@ -1,0 +1,68 @@
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+}
+
+CD {
+    background-color: rgb(68, 64, 64);
+}
+
+informacion_discografica {
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    align-items: center;
+}
+
+caratula {
+    background-image: url("../Multimedia/R.jpg");
+    height: 210px;
+    width: 210px;
+    background-size: contain;
+    margin: 1rem;
+    box-shadow: 0 0 12px #0b1a2c;
+}
+
+titulos {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin: 2px;
+    font-weight: 100;
+}
+
+informacion {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left: 2px;
+}
+
+artista {
+    color: orange;
+    font-weight: bold;
+}
+
+sello,
+numero,
+numero_cd {
+    font-weight: bold;
+}
+
+canciones {
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+nombre {
+    margin-left: 10px;
+}
+
+cancion_i {
+    background-color: rgb(36, 36, 36);
+}
+duracion{
+    font-weight: 100;
+    font-style: italic;
+}

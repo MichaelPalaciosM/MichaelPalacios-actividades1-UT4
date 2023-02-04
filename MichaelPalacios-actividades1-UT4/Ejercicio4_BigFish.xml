@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="CSS/bigfish.css" type="text/css"?>
+<pelicula>
+    <primera_parte>
+        <directores>
+            <director_arte>
+                <nombre>Ewan</nombre>
+                <apellido>MCGREGOR</apellido>
+            </director_arte>
+            <director_audiovisual>
+                <nombre>Albert</nombre>
+                <apellido>FINNEY</apellido>
+            </director_audiovisual>
+            <director_casting>
+                <nombre>Billy</nombre>
+                <apellido>CRUDUP</apellido>
+            </director_casting>
+            <director_fotografia>
+                <nombre>Jessica</nombre>
+                <apellido>LANGE</apellido>
+            </director_fotografia>
+        </directores>
+        <creacion>
+            <descripcion> Una película de <nombre>TIM BURTON</nombre> </descripcion>
+        </creacion>
+    </primera_parte>
+    <segunda_parte>
+        <descripcion>UNA AVENTURA TAN GRANDE COMO LA VIDA MISMA</descripcion>
+    </segunda_parte>
+</pelicula>

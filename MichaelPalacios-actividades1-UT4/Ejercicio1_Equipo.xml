@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<equipo_de_liga>
+    <equipo>
+        <nombre>Futbol club Barcelona</nombre>
+        <entrenador>Jonatan Giráldez</entrenador>
+        <jugadora>Alexia Putellas</jugadora>
+    </equipo>
+    <equipo>
+        <nombre>Futbol club Barcelona</nombre>
+        <entrenador>Jonatan Giráldez</entrenador>
+        <jugadora>Mapi León</jugadora>
+    </equipo>
+    <equipo>
+        <nombre>Futbol club Barcelona</nombre>
+        <entrenador>Jonatan Giráldez</entrenador>
+        <jugadora>Aitana Bonmatí</jugadora>
+    </equipo>
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <entrenador>Alberto Toril</entrenador>
+        <jugadora>Athenea del Castillo</jugadora>
+    </equipo>
+    <equipo>
+        <nombre>Futbol club Barcelona</nombre>
+        <entrenador>Jonatan Giráldez</entrenador>
+        <jugadora>Jenni Hermoso</jugadora>
+    </equipo>
+</equipo_de_liga>
